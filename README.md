@@ -1,2 +1,2 @@
 # CCode
-Work from K &amp; R biij
+Work from K &amp; R book
